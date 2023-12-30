@@ -1,10 +1,15 @@
-<div class="titulo">
-  <center>
-  Inicio de Drey 👋
-<center>
-  
-</div>
+# Hello 👋🏾 👩🏾‍💻
 
+Hola soy Drey! Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
+
+Encuéntrame en la web 🌎:
+- Aprender en público en <a href="https://www.twitch.tv">Twitch</a> or <a href="https://www..">Drey.dev</a> 📹 ✍🏾
+- Experimentando con las interacciones <a href="https://codepen.io/"> Codepen</a> 🏓
+- Compartir actualizaciones <a href="https://www.linkedin.com/in//">LinkedIn</a> 💼
+
+
+---
+⭐️ From [Drey](https://github.com/Dreyuix)
  
 
 <!--
